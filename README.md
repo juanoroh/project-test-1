@@ -1,6 +1,7 @@
 create DB 'laravel' in MySQL database
 
-run code on terminal:
+run code on terminal after clone:
+- composer install
 - php artisan migrate
 - php artisan serve
 
